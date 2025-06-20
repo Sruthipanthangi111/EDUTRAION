@@ -1,0 +1,12 @@
+# Task 2 – Tic-Tac-Toe AI 🤖
+
+### 📌 Description:
+Implemented an unbeatable AI agent that plays the classic game of Tic-Tac-Toe using the **Minimax algorithm**.
+
+- Human vs AI (You play as 'X', AI as 'O')
+- No plagiarism – all code is written from scratch
+- Runs in console using Python
+
+### 🚀 How to Run:
+```bash
+python tic_tac_toe_ai.py
