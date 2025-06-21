@@ -1,0 +1,20 @@
+# Task 3 – Object Detection using OpenCV
+
+## Objective
+Develop a real-time object detection application using Python and OpenCV that detects human faces using Haarcascade classifiers.
+
+## Tools & Technologies
+- Python
+- OpenCV
+- Haarcascade Classifier
+
+##  How It Works
+1. Captures live webcam feed
+2. Converts each frame to grayscale
+3. Uses Haarcascade to detect faces
+4. Draws a rectangle around detected faces
+
+## ▶ How to Run
+
+1. Clone the repo or download the files
+2. Install OpenCV if not installed:
